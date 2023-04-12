@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\bin\Debug\LegkoVagovuk.exe.config
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\bin\Debug\LegkoVagovuk.exe
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\bin\Debug\LegkoVagovuk.pdb
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.Form1.resources
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.Properties.Resources.resources
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.csproj.GenerateResource.cache
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.exe
+D:\HomeWork\Projects\LegkoVagovuk\LegkoVagovuk\obj\Debug\LegkoVagovuk.pdb
